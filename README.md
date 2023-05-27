@@ -27,7 +27,7 @@ To transform, analyze and provide insights, the following tools were used
 - Slicers
 
 ## DATA CLEANING
-The original dataset contained 139,872 rows and 135 columns. The initial data cleaning process was carried out with Excel, and completed with Power Query  and Postgresql. The following steps breaksdown the cleaning process I took in ensuring the dataset was clean, valid and ready for analysis.
+The original dataset contained 139,872 rows and 135 columns and spans 1970-2014. The initial data cleaning process was carried out with Excel, and completed with Power Query  and Postgresql. The following steps breaks down the cleaning process I took in ensuring the dataset was clean, valid and ready for analysis.
 - Dropped Irrelevant columns 
 - 13,877 Duplicates records were removed
 - Removed special characters
@@ -60,3 +60,6 @@ The solutions to these pressing questions can be found ()here
 ## DATA MODELLING
 The model is a star shcema. There are 4 dimension tables and 1 fact table(event). The dimension tables were all joined to the fact table with a one-to-many relationship. 
 ![](Data_Model.png)
+Quick  INsights- https://app.powerbi.com/groups/me/insights/7a7c0c64-648b-4062-a566-d0ed3ed479c2?insightsSource=Desktop&experience=power-bi
+
+POwer BI dashboard link - https://app.powerbi.com/groups/me/reports/ea33dd0f-3794-43b9-b2a1-8ba4c08f093f/ReportSection?experience=power-bi 
