@@ -55,7 +55,7 @@ For this phase, I created the Global Terrorism Database in postgreSQL, to accomo
 9. What is the no of casualities based on each attack type? Which attk type has contribute most to casuality?
 10. What is the trend of attacks over the years?
 
-The solutions to these pressing questions can be found [here](https://github.com/TobyDavids/Global-Terrorism-Analysis/blob/main/PostgreSQL%20Analysis%20Solutions)
+The solutions to these questions can be found [here](https://github.com/TobyDavids/Global-Terrorism-Analysis/blob/main/PostgreSQL%20Analysis%20Solutions)
 
 ## DATA MODELLING
 The model is a star shcema. There are 4 dimension tables and 1 fact table(event). The dimension tables were all joined to the fact table with a one-to-many relationship. 
