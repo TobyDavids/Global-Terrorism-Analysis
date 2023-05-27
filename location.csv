@@ -1,0 +1,206 @@
+﻿country_id,country,region_id,region
+58,Dominican Republic,2,Central America & Caribbean
+217,United States,1,North America
+218,Uruguay,3,South America
+98,Italy,8,Western Europe
+499,East Germany (GDR),9,Eastern Europe
+65,Ethiopia,11,Sub-Saharan Africa
+83,Guatemala,2,Central America & Caribbean
+160,Philippines,5,Southeast Asia
+222,Venezuela,3,South America
+362,West Germany (FRG),8,Western Europe
+199,Switzerland,8,Western Europe
+102,Jordan,10,Middle East & North Africa
+185,Spain,8,Western Europe
+30,Brazil,3,South America
+60,Egypt,10,Middle East & North Africa
+11,Argentina,3,South America
+110,Lebanon,10,Middle East & North Africa
+101,Japan,4,East Asia
+96,Ireland,8,Western Europe
+209,Turkey,10,Middle East & North Africa
+158,Paraguay,3,South America
+94,Iran,10,Middle East & North Africa
+603,United Kingdom,8,Western Europe
+45,Colombia,3,South America
+26,Bolivia,3,South America
+78,Greece,8,Western Europe
+145,Nicaragua,2,Central America & Caribbean
+21,Belgium,8,Western Europe
+130,Mexico,1,North America
+142,Netherlands,8,Western Europe
+38,Canada,1,North America
+14,Australia,12,Australasia & Oceania
+153,Pakistan,6,South Asia
+230,Zambia,11,Sub-Saharan Africa
+198,Sweden,8,Western Europe
+49,Costa Rica,2,Central America & Caribbean
+406,South Yemen,10,Middle East & North Africa
+97,Israel,10,Middle East & North Africa
+161,Poland,9,Eastern Europe
+201,Taiwan,4,East Asia
+156,Panama,2,Central America & Caribbean
+155,West Bank and Gaza Strip,10,Middle East & North Africa
+15,Austria,8,Western Europe
+236,Czechoslovakia,9,Eastern Europe
+92,India,6,South Asia
+69,France,8,Western Europe
+428,South Vietnam,5,Southeast Asia
+36,Cambodia,5,Southeast Asia
+31,Brunei,5,Southeast Asia
+604,Zaire,11,Sub-Saharan Africa
+605,People's Republic of the Congo,11,Sub-Saharan Africa
+162,Portugal,8,Western Europe
+6,Algeria,10,Middle East & North Africa
+61,El Salvador,2,Central America & Caribbean
+205,Thailand,5,Southeast Asia
+87,Haiti,2,Central America & Caribbean
+195,Sudan,11,Sub-Saharan Africa
+136,Morocco,10,Middle East & North Africa
+53,Cyprus,8,Western Europe
+138,Myanmar,5,Southeast Asia
+4,Afghanistan,6,South Asia
+159,Peru,3,South America
+43,Chile,3,South America
+88,Honduras,2,Central America & Caribbean
+235,Yugoslavia,9,Eastern Europe
+59,Ecuador,3,South America
+144,New Zealand,12,Australasia & Oceania
+121,Malaysia,5,Southeast Asia
+178,Singapore,5,Southeast Asia
+29,Botswana,11,Sub-Saharan Africa
+106,Kuwait,10,Middle East & North Africa
+100,Jamaica,2,Central America & Caribbean
+42,Chad,11,Sub-Saharan Africa
+377,North Yemen,10,Middle East & North Africa
+7,Andorra,8,Western Europe
+200,Syria,10,Middle East & North Africa
+184,South Korea,4,East Asia
+215,United Arab Emirates,10,Middle East & North Africa
+183,South Africa,11,Sub-Saharan Africa
+104,Kenya,11,Sub-Saharan Africa
+95,Iraq,10,Middle East & North Africa
+182,Somalia,11,Sub-Saharan Africa
+203,Tanzania,11,Sub-Saharan Africa
+186,Sri Lanka,6,South Asia
+139,Namibia,11,Sub-Saharan Africa
+17,Bahamas,2,Central America & Caribbean
+147,Nigeria,11,Sub-Saharan Africa
+20,Barbados,2,Central America & Caribbean
+207,Trinidad and Tobago,2,Central America & Caribbean
+19,Bangladesh,6,South Asia
+8,Angola,11,Sub-Saharan Africa
+128,Mauritania,11,Sub-Saharan Africa
+173,Saudi Arabia,10,Middle East & North Africa
+56,Djibouti,11,Sub-Saharan Africa
+93,Indonesia,5,Southeast Asia
+403,Rhodesia,11,Sub-Saharan Africa
+359,Soviet Union,9,Eastern Europe
+55,Denmark,8,Western Europe
+349,Western Sahara,10,Middle East & North Africa
+86,Guyana,3,South America
+137,Mozambique,11,Sub-Saharan Africa
+208,Tunisia,10,Middle East & North Africa
+213,Uganda,11,Sub-Saharan Africa
+151,Norway,8,Western Europe
+111,Lesotho,11,Sub-Saharan Africa
+72,Gabon,11,Sub-Saharan Africa
+113,Libya,10,Middle East & North Africa
+18,Bahrain,10,Middle East & North Africa
+89,Hong Kong,4,East Asia
+174,Senegal,11,Sub-Saharan Africa
+231,Zimbabwe,11,Sub-Saharan Africa
+84,Guinea,11,Sub-Saharan Africa
+80,Grenada,2,Central America & Caribbean
+532,New Hebrides,12,Australasia & Oceania
+22,Belize,2,Central America & Caribbean
+81,Guadeloupe,2,Central America & Caribbean
+127,Martinique,2,Central America & Caribbean
+221,Vatican City,8,Western Europe
+5,Albania,9,Eastern Europe
+41,Central African Republic,11,Sub-Saharan Africa
+176,Seychelles,11,Sub-Saharan Africa
+57,Dominica,2,Central America & Caribbean
+164,Qatar,10,Middle East & North Africa
+32,Bulgaria,9,Eastern Europe
+197,Swaziland,11,Sub-Saharan Africa
+196,Suriname,3,South America
+116,Luxembourg,8,Western Europe
+91,Iceland,8,Western Europe
+70,French Guiana,3,South America
+66,Falkland Islands,3,South America
+124,Malta,8,Western Europe
+143,New Caledonia,12,Australasia & Oceania
+166,Romania,9,Eastern Europe
+146,Niger,11,Sub-Saharan Africa
+141,Nepal,6,South Asia
+204,Togo,11,Sub-Saharan Africa
+68,Finland,8,Western Europe
+67,Fiji,12,Australasia & Oceania
+76,Ghana,11,Sub-Saharan Africa
+122,Maldives,6,South Asia
+129,Mauritius,6,South Asia
+90,Hungary,9,Eastern Europe
+108,Laos,5,Southeast Asia
+157,Papua New Guinea,12,Australasia & Oceania
+44,China,4,East Asia
+112,Liberia,11,Sub-Saharan Africa
+47,Republic of the Congo,11,Sub-Saharan Africa
+123,Mali,11,Sub-Saharan Africa
+75,Germany,8,Western Europe
+228,Yemen,10,Middle East & North Africa
+168,Rwanda,11,Sub-Saharan Africa
+177,Sierra Leone,11,Sub-Saharan Africa
+37,Cameroon,11,Sub-Saharan Africa
+51,Cuba,2,Central America & Caribbean
+50,Croatia,9,Eastern Europe
+74,Georgia,7,Central Asia
+16,Azerbaijan,7,Central Asia
+119,Madagascar,11,Sub-Saharan Africa
+115,Lithuania,9,Eastern Europe
+34,Burundi,11,Sub-Saharan Africa
+214,Ukraine,9,Eastern Europe
+33,Burkina Faso,11,Sub-Saharan Africa
+132,Moldova,9,Eastern Europe
+12,Armenia,7,Central Asia
+167,Russia,9,Eastern Europe
+99,Ivory Coast,11,Sub-Saharan Africa
+10,Antigua and Barbuda,2,Central America & Caribbean
+28,Bosnia-Herzegovina,9,Eastern Europe
+62,Equatorial Guinea,11,Sub-Saharan Africa
+202,Tajikistan,7,Central Asia
+120,Malawi,11,Sub-Saharan Africa
+219,Uzbekistan,7,Central Asia
+109,Latvia,9,Eastern Europe
+64,Estonia,9,Eastern Europe
+223,Vietnam,5,Southeast Asia
+103,Kazakhstan,7,Central Asia
+46,Comoros,11,Sub-Saharan Africa
+23,Benin,11,Sub-Saharan Africa
+179,Slovak Republic,9,Eastern Europe
+118,Macedonia,9,Eastern Europe
+226,Wallis and Futuna,12,Australasia & Oceania
+35,Belarus,9,Eastern Europe
+54,Czech Republic,9,Eastern Europe
+180,Slovenia,9,Eastern Europe
+73,Gambia,11,Sub-Saharan Africa
+149,North Korea,4,East Asia
+63,Eritrea,11,Sub-Saharan Africa
+189,St. Kitts and Nevis,2,Central America & Caribbean
+71,French Polynesia,12,Australasia & Oceania
+117,Macau,4,East Asia
+107,Kyrgyzstan,7,Central Asia
+220,Vanuatu,12,Australasia & Oceania
+229,Democratic Republic of the Congo,11,Sub-Saharan Africa
+1003,Kosovo,9,Eastern Europe
+181,Solomon Islands,12,Australasia & Oceania
+347,East Timor,5,Southeast Asia
+190,St. Lucia,2,Central America & Caribbean
+85,Guinea-Bissau,11,Sub-Saharan Africa
+1002,Montenegro,9,Eastern Europe
+422,International,10,Middle East & North Africa
+210,Turkmenistan,7,Central Asia
+175,Serbia-Montenegro,9,Eastern Europe
+25,Bhutan,6,South Asia
+1001,Serbia,9,Eastern Europe
+1004,South Sudan,11,Sub-Saharan Africa

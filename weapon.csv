@@ -1,0 +1,13 @@
+weapon_type_id,weapon_type
+13,Unknown
+5,Firearms
+6,Explosives
+8,Incendiary
+2,Chemical
+9,Melee
+11,Sabotage Equipment
+10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)"
+7,Fake Weapons
+3,Radiological
+12,Other
+1,Biological
