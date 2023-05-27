@@ -62,8 +62,8 @@ The model is a star shcema. There are 4 dimension tables and 1 fact table(event)
 ![](Data_Model.png)
 
 ## DATA VISUALIZATION
-The dashboard contains 1 page of report.
-
+The dashboard contains 1 page of report. It was created to provide insights and answer the questions posed during the analysis phase. 
 You can interact with the dashboard [here](https://app.powerbi.com/groups/me/reports/ea33dd0f-3794-43b9-b2a1-8ba4c08f093f/ReportSection?experience=power-bi). You can also get further insights [here](https://app.powerbi.com/groups/me/insights/7a7c0c64-648b-4062-a566-d0ed3ed479c2?insightsSource=Desktop&experience=power-bi)
+![](Global_Terrorism_dashboard.jpg)
 
 POwer BI dashboard link - 
